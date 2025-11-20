@@ -1,5 +1,5 @@
 <?php
-$host = 'matar.test';
+$host = 'localhost';
 $dbname = 'telesante';
 $username = 'root'; // à adapter selon ton serveur
 $password = '';     // idem
