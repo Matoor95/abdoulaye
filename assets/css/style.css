@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BentonSans';
+    src: url('../fonts/Benton_Sans/bentonsansbook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BentonSans';
+    src: url('../fonts/Benton_Sans/bentonsansbold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BentonSans';
+    src: url('../fonts/Benton_Sans/bentonsansblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

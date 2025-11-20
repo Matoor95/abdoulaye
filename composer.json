@@ -1,0 +1,6 @@
+{
+    "require": {
+        "plivo/plivo-php": "^4.67",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
